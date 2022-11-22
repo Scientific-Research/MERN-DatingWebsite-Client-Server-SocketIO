@@ -7514,7 +7514,7 @@
   dependencies:
     "react" "^15.6.1"
 
-"react-input-emoji@^4.1.0":
+"react-input-emoji@^4.3.0":
   "integrity" "sha512-SYg+iJcaFMs7A3zjX/lLxiwGO9jutb0IAFRjYGX7mT3qFmYa/NYSsu6irm2RPFedqsat4nZi/VH4uhpx8N2PLw=="
   "resolved" "https://registry.npmjs.org/react-input-emoji/-/react-input-emoji-4.3.0.tgz"
   "version" "4.3.0"
